@@ -43,10 +43,10 @@ USAGE IN LINUX:
 --------------------------------------------------------------------------------
 IF YOU HAVE SOME PROBLEM EXECUTING THIS WITH 'sudo', CONSIDER USING WITHOUT IT.
 --------------------------------------------------------------------------------
-YOU ARE FREE TO EDIT THE CODE.
-DON'T USE THIS FOR BAD.
+YOU ARE FREE TO EDIT THE CODE.</br>
+DON'T USE THIS FOR BAD.</br>
 
-<b>IT WAS CODED BY [draculwhitehat] FROM: https://raidforums.com/ FOR EDUCATIONAL PURPOSE.
+<b>IT WAS CODED BY [draculwhitehat] FROM: https://raidforums.com/</b></br>
 
-BUY ME A COFFEE: https://www.buymeacoffee.com/dracul
-GitHub: https://github.com/draculwhitehat/gdracul</b>
+BUY ME A COFFEE: https://www.buymeacoffee.com/dracul</br>
+GitHub: https://github.com/draculwhitehat/gdracul
