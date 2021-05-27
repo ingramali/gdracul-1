@@ -16,11 +16,11 @@ WINDOWS:
 Just copy the folder: 
 	for_windows
 
-Enter this folder, you will see, these files:
-	gdracul.exe and 
+Enter this folder, you will see, these files:</br>
+	gdracul.exe and</br>
 	gdracul Folder
 
-Just run the: 
+Just run the:</br> 
 	gdracul.exe
 
 And Done.
