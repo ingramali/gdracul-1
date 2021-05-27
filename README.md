@@ -1,4 +1,4 @@
-# gdracul :brazil:
+# gdracul
 
 --------------------------------------------------------------------------------
 Google Dorks Finder Tool Created for Educational Purpose
