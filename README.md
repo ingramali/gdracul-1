@@ -34,7 +34,7 @@ I try to make a folder</b> in your disk, at this location: <b>"C:\GDracul - v1.0
 --------------------------------------------------------------------------------
 LINUX
 --------------------------------------------------------------------------------
-EXECUTE <b>./install.sh</b> | THE SCRIPT WILL INSTALL PYTHON2, WINE AND MONO 
+EXECUTE <b>./install.sh</b> | THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>WINE</b> AND <b>MONO</b>
 
 USAGE IN LINUX
 
