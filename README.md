@@ -1,17 +1,18 @@
 # gdracul
-<b>--------------------------------------------------------------------------------</b><br/>
+--------------------------------------------------------------------------------
 Google Dorks Finder Tool Created for Educational Purpose</br>
-<b>--------------------------------------------------------------------------------</b><br/></br>
-<b>DESCRIPTION:</b></br>
+--------------------------------------------------------------------------------
+DESCRIPTION
+--------------------------------------------------------------------------------
 
 GDracul is a GUI tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
 in the search box to filter the dorks.
 
 It's created for Windows, but you can run it on Linux executing the script <b>./install.sh</b>.
 
-<b>--------------------------------------------------------------------------------</b><br/>
-<b>WINDOWS:</b>
-<b>--------------------------------------------------------------------------------</b><br/></br>
+--------------------------------------------------------------------------------
+WINDOWS
+--------------------------------------------------------------------------------
 Just copy the folder: 
 	<b>for_windows</b>
 
@@ -27,11 +28,11 @@ And Done.
 <b>It's doesn't have virus</b>, but if your antivirus give an alert, the reason is the <b>command line</b> I did in the source code.<b>I make a folder</b> in your disk,</br>at this location: <b>"C:\GDracul - v1.0.1"</b>. So don't worry about this.
 
 --------------------------------------------------------------------------------
-LINUX:
+LINUX
 --------------------------------------------------------------------------------
 EXECUTE <b>./install.sh</b> | THE SCRIPT WILL INSTALL PYTHON2, WINE AND MONO 
 
-USAGE IN LINUX:
+USAGE IN LINUX
 
 <b>gdracul -s</b> | (start it)</br>
 <b>gdracul -h</b> | (give you some help)</br>
