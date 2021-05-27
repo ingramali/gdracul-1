@@ -5,7 +5,6 @@ Pentest Tool Created for Educational Purpose
 --------------------------------------------------------------------------------
 DESCRIPTION:
 --------------------------------------------------------------------------------
-
 GDracul is a tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
 in the search box to filter the dorks.
 
@@ -14,7 +13,6 @@ It's created for Windows, but you can run it on Linux too running the install.sh
 --------------------------------------------------------------------------------
 WINDOWS:
 --------------------------------------------------------------------------------
-
 Just copy the folder: 
 	for_windows
 
@@ -34,7 +32,6 @@ C:\GDracul - v1.0.1" it's try to make a folder on your disk, so antivirus says i
 --------------------------------------------------------------------------------
 LINUX:
 --------------------------------------------------------------------------------
-
 EXECUTE ./install.sh | THE SCRIPT WILL INSTALL PYTHON2, WINE AND MONO 
 
 USAGE IN LINUX:
@@ -46,7 +43,6 @@ gdracul -u | (update the dorks from the site: https://www.exploit-db.com/google-
 --------------------------------------------------------------------------------
 IF YOU HAVE SOME PROBLEM EXECUTING THIS WITH 'sudo', CONSIDER USING WITHOUT IT.
 --------------------------------------------------------------------------------
-
 YOU ARE FREE TO EDIT THE CODE.
 DON'T USE THIS FOR BAD.
 
