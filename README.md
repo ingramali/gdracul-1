@@ -34,7 +34,7 @@ I try to make a folder</b> in your disk, at this location: <b>"C:\GDracul - v1.0
 --------------------------------------------------------------------------------
 LINUX
 --------------------------------------------------------------------------------
-FIRST, CLONE THE REPOSITORY WITH THIS COMMANDO LINE:</br>
+FIRST, CLONE THE REPOSITORY WITH THIS COMMAND LINE:</br>
 
 <b>sudo git clone https://github.com/draculwhitehat/gdracul.git</b></br>
 
