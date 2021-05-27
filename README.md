@@ -56,6 +56,9 @@ NOW EXECUTE <b>./install.sh</b> AND THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>W
 <b>gdracul -h</b> | (give you some help)</br>
 <b>gdracul -u</b> | (update the dorks from the site: https://www.exploit-db.com/google-hacking-database)
 
+YOU CAN ALSO <b>EXECUTE BY A SHORTCUT</b> THAT WAS CREATED.</br>
+JUST <b>FIND THE ICON IN SEARCH FIELD TYPING gdracul<b/>.
+
 --------------------------------------------------------------------------------
 IF YOU HAVE SOME PROBLEM EXECUTING THIS WITH 'sudo', CONSIDER USING WITHOUT IT.
 --------------------------------------------------------------------------------
