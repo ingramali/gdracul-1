@@ -23,8 +23,8 @@ sudo apt install wine32 -y
 sudo apt install winetricks -y 
 sudo apt install mono-complete -y
 sudo winetricks dotnet45
-sudo pip install -y requests
-sudo pip install -y bs4
+sudo pip install requests
+sudo pip install bs4
 sudo mkdir -p /usr/share/gdracul_dork_finder
 sudo cp -r * /usr/share/gdracul_dork_finder/
 sudo cp -r /usr/share/gdracul_dork_finder/gdraculc /usr/local/bin/gdracul
