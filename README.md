@@ -25,9 +25,9 @@ Just run the:</br>
 
 And Done.
 
-It's doesn't have virus, but if you be alert about this in windows, the reason is the command line I did for try to make a folder:
+<b>It's doesn't have virus</b>, but if you be alert about this in windows, the reason is the <b>command line</b> I did for <b>try to make a folder</b>:
 
-C:\GDracul - v1.0.1" it's try to make a folder on your disk, so antivirus says it's a virus...
+</b>"C:\GDracul - v1.0.1"</b> it's try to make a folder on your disk, so antivirus says it's a virus...
 
 --------------------------------------------------------------------------------
 LINUX:
