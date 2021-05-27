@@ -1,6 +1,6 @@
 # gdracul
 <b>--------------------------------------------------------------------------------</b><br/>
-Google Dorks Finder Tool Created for Educational Purpose
+Google Dorks Finder Tool Created for Educational Purpose</br>
 <b>--------------------------------------------------------------------------------</b><br/>
 DESCRIPTION:
 --------------------------------------------------------------------------------
