@@ -8,7 +8,7 @@ DESCRIPTION:
 GDracul is a tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
 in the search box to filter the dorks.
 
-<b>It's created for Windows, but you can run it on Linux too running the install.sh script.</b>
+It's created for Windows, but you can run it on Linux too running the install.sh script.
 
 --------------------------------------------------------------------------------
 WINDOWS:
@@ -32,13 +32,13 @@ And Done.
 --------------------------------------------------------------------------------
 LINUX:
 --------------------------------------------------------------------------------
-EXECUTE ./install.sh | THE SCRIPT WILL INSTALL PYTHON2, WINE AND MONO 
+EXECUTE <b>./install.sh</b> | THE SCRIPT WILL INSTALL PYTHON2, WINE AND MONO 
 
 USAGE IN LINUX:
 
-gdracul -s | (start it)</br>
-gdracul -h | (give you some help)</br>
-gdracul -u | (update the dorks from the site: https://www.exploit-db.com/google-hacking-database)
+<b>gdracul -s</b> | (start it)</br>
+<b>gdracul -h</b> | (give you some help)</br>
+<b>gdracul -u</b> | (update the dorks from the site: https://www.exploit-db.com/google-hacking-database)
 
 --------------------------------------------------------------------------------
 IF YOU HAVE SOME PROBLEM EXECUTING THIS WITH 'sudo', CONSIDER USING WITHOUT IT.
@@ -46,7 +46,7 @@ IF YOU HAVE SOME PROBLEM EXECUTING THIS WITH 'sudo', CONSIDER USING WITHOUT IT.
 YOU ARE FREE TO EDIT THE CODE.
 DON'T USE THIS FOR BAD.
 
-IT WAS CODED BY [draculwhitehat] FROM: https://raidforums.com/ FOR EDUCATIONAL PURPOSE.
+<b>IT WAS CODED BY [draculwhitehat] FROM: https://raidforums.com/ FOR EDUCATIONAL PURPOSE.
 
 BUY ME A COFFEE: https://www.buymeacoffee.com/dracul
-GitHub: https://github.com/draculwhitehat/gdracul""
+GitHub: https://github.com/draculwhitehat/gdracul</b>
