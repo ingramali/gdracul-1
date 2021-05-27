@@ -2,14 +2,14 @@
 <b>--------------------------------------------------------------------------------</b><br/>
 Google Dorks Finder Tool Created for Educational Purpose</br>
 <b>--------------------------------------------------------------------------------</b><br/></br>
-DESCRIPTION:
---------------------------------------------------------------------------------
+<b>DESCRIPTION:</b></br>
+
 GDracul is a GUI tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
 in the search box to filter the dorks.
 
 It's created for Windows, but you can run it on Linux executing the script <b>./install.sh</b>.
 
---------------------------------------------------------------------------------
+<b>--------------------------------------------------------------------------------</b><br/></br>
 WINDOWS:
 --------------------------------------------------------------------------------
 Just copy the folder: 
