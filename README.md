@@ -46,7 +46,9 @@ AND NOW, GIVE THE EXECUTION PERMISSIONS:</br>
 
 <b>sudo chmod +x *</b></br>
 
-EXECUTE <b>./install.sh</b> | THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>WINE</b> AND <b>MONO</b>
+NOW EXECUTE <b>./install.sh</b> AND THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>WINE</b> AND <b>MONO</b>
+
+</b>DONE</b>
 
 USAGE IN LINUX
 
