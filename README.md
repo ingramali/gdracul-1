@@ -29,7 +29,7 @@ Just run the:</br>
 And Done.
 
 <b>It's doesn't have virus</b>, but if your antivirus give an alert, the reason is the <b>command line</b> I did in the source code.<b></br>
-I try to make a folder</b> in your disk,</br>at this location: <b>"C:\GDracul - v1.0.1"</b> and the antivirus think it's a malicious command. So don't worry about this.
+I try to make a folder</b> in your disk, at this location: <b>"C:\GDracul - v1.0.1"</b> and the antivirus think it's a malicious command. So don't worry about this.
 
 --------------------------------------------------------------------------------
 LINUX
