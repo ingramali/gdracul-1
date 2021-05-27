@@ -14,11 +14,11 @@ It's created for Windows, but you can run it on Linux too running the install.sh
 WINDOWS:
 --------------------------------------------------------------------------------
 Just copy the folder: 
-	for_windows
+	<b>for_windows</b>
 
 Enter this folder, you will see, these files:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe and</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul Folder
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>gdracul.exe</b></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>gdracul Folder</b>
 
 Just run the:</br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe
@@ -27,7 +27,7 @@ And Done.
 
 <b>It's doesn't have virus</b>, but if you be alert about this in windows, the reason is the <b>command line</b> I did for <b>try to make a folder</b>:
 
-</b>"C:\GDracul - v1.0.1"</b> it's try to make a folder on your disk, so antivirus says it's a virus...
+<b>"C:\GDracul - v1.0.1"</b> it's try to make a folder on your disk, so antivirus says it's a virus...
 
 --------------------------------------------------------------------------------
 LINUX:
