@@ -8,7 +8,7 @@ DESCRIPTION:
 GDracul is a tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
 in the search box to filter the dorks.
 
-It's created for Windows, but you can run it on Linux too running the install.sh script.
+<b>It's created for Windows, but you can run it on Linux too running the install.sh script.</b>
 
 --------------------------------------------------------------------------------
 WINDOWS:
@@ -21,7 +21,7 @@ Enter this folder, you will see, these files:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>gdracul Folder</b>
 
 Just run the:</br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>gdracul.exe</b>
 
 And Done.
 
