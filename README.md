@@ -1,4 +1,4 @@
-# gdracul <span>&#x1f1e7;&#x1f1f7;</span>
+# gdracul :brazil:
 
 --------------------------------------------------------------------------------
 Google Dorks Finder Tool Created for Educational Purpose
