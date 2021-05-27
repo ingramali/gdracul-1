@@ -48,9 +48,9 @@ AND NOW, GIVE THE EXECUTION PERMISSIONS:</br>
 
 NOW EXECUTE <b>./install.sh</b> AND THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>WINE</b> AND <b>MONO</b>
 
-</b>DONE</b>
+<b>DONE</b>
 
-USAGE IN LINUX
+<b>USAGE IN LINUX</b>
 
 <b>gdracul -s</b> | (start it)</br>
 <b>gdracul -h</b> | (give you some help)</br>
