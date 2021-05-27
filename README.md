@@ -36,8 +36,8 @@ EXECUTE ./install.sh | THE SCRIPT WILL INSTALL PYTHON2, WINE AND MONO
 
 USAGE IN LINUX:
 
-gdracul -s | (start it)
-gdracul -h | (give you some help)
+gdracul -s | (start it)</br>
+gdracul -h | (give you some help)</br>
 gdracul -u | (update the dorks from the site: https://www.exploit-db.com/google-hacking-database)
 
 --------------------------------------------------------------------------------
