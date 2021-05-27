@@ -17,11 +17,11 @@ Just copy the folder:
 	for_windows
 
 Enter this folder, you will see, these files:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe and</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul Folder
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe and</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul Folder
 
 Just run the:</br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gdracul.exe
 
 And Done.
 
