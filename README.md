@@ -5,10 +5,10 @@ Google Dorks Finder Tool Created for Educational Purpose
 --------------------------------------------------------------------------------
 DESCRIPTION:
 --------------------------------------------------------------------------------
-GDracul is a tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
+GDracul is a GUI tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
 in the search box to filter the dorks.
 
-It's created for Windows, but you can run it on Linux too running the install.sh script.
+It's created for Windows, but you can run it on Linux executing the script <b>./install.sh</b>.
 
 --------------------------------------------------------------------------------
 WINDOWS:
@@ -25,9 +25,7 @@ Just run the:</br>
 
 And Done.
 
-<b>It's doesn't have virus</b>, but if you be alert about this in windows, the reason is the <b>command line</b> I did for <b>try to make a folder</b>:
-
-<b>"C:\GDracul - v1.0.1"</b> it's try to make a folder on your disk, so antivirus says it's a virus...
+<b>It's doesn't have virus</b>, but if your antivirus give an alert, the reason is the <b>command line</b> I did in the source code.<b>I make a folder</b> in your disk,</br>at this location: <b>"C:\GDracul - v1.0.1"</b>. So don't worry about this.
 
 --------------------------------------------------------------------------------
 LINUX:
