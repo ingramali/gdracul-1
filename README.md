@@ -44,7 +44,7 @@ AFTER IT, ENTER IN THE FOLDER <b>gdracul</b>:</br>
 
 AND NOW, GIVE THE EXECUTION PERMISSIONS:</br>
 
-<b>sudo chmod +x *</b></br>
+<b>sudo chmod -R +x *</b></br>
 
 NOW EXECUTE <b>./install.sh</b> AND THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>WINE</b> AND <b>MONO</b>
 
