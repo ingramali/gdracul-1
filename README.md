@@ -9,9 +9,9 @@ in the search box to filter the dorks.
 
 It's created for Windows, but you can run it on Linux executing the script <b>./install.sh</b>.
 
+<b>--------------------------------------------------------------------------------</b><br/>
+<b>WINDOWS:</b>
 <b>--------------------------------------------------------------------------------</b><br/></br>
-WINDOWS:
---------------------------------------------------------------------------------
 Just copy the folder: 
 	<b>for_windows</b>
 
