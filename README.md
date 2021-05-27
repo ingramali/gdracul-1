@@ -1,7 +1,7 @@
 # gdracul
 <b>--------------------------------------------------------------------------------</b><br/>
 Google Dorks Finder Tool Created for Educational Purpose</br>
-<b>--------------------------------------------------------------------------------</b><br/>
+<b>--------------------------------------------------------------------------------</b><br/></br>
 DESCRIPTION:
 --------------------------------------------------------------------------------
 GDracul is a GUI tool that returns dorks from https://www.exploit-db.com/google-hacking-database, and you can search terms 
