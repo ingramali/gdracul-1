@@ -34,6 +34,18 @@ I try to make a folder</b> in your disk, at this location: <b>"C:\GDracul - v1.0
 --------------------------------------------------------------------------------
 LINUX
 --------------------------------------------------------------------------------
+FIRST, CLONE THE REPOSITORY WITH THIS COMMANDO LINE:</br>
+
+<b>sudo git clone https://github.com/draculwhitehat/gdracul.git</b></br>
+
+AFTER IT, ENTER IN THE FOLDER <b>gdracul</b>:</br>
+
+<b>cd gdracul</b></br>
+
+AND NOW, GIVE THE EXECUTION PERMISSIONS:</br>
+
+<b>sudo chmod +x *</b></br>
+
 EXECUTE <b>./install.sh</b> | THE SCRIPT WILL INSTALL <b>PYTHON2</b>, <b>WINE</b> AND <b>MONO</b>
 
 USAGE IN LINUX
