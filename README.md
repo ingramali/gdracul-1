@@ -39,7 +39,7 @@ AFTER IT, ENTER IN THE FOLDER <b>gdracul</b>:</br>
 
 <b>cd gdracul</b></br>
 
-AND NOW, GIVE THE EXECUTION PERMISSIONS:</br>
+AND NOW, GIVE THE EXECUTE PERMISSION:</br>
 
 <b>sudo chmod -R +x *</b></br>
 
