@@ -69,4 +69,4 @@ DON'T USE THIS FOR BAD.</br></b>
 <b>IT WAS CODED BY [draculwhitehat] FROM: https://raidforums.com/</b></br>
 
 <b>BUY ME A COFFEE: https://www.buymeacoffee.com/dracul</br>
-GITHUB: https://github.com/draculwhitehat/gdracul</b>
+GITHUB: https://github.com/draculwhitehat/</b>
