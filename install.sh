@@ -18,6 +18,7 @@ clear
 dracul_signature
 sudo apt-get update -y
 sudo apt install -y python2
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py && python get-pip.py
 dpkg --add-architecture i386 -y && apt-get update && apt-get install wine32 -y
 sudo apt install winetricks -y 
 sudo apt install mono-complete -y
