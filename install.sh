@@ -23,6 +23,7 @@ dpkg --add-architecture i386 -y && apt-get update && apt-get install wine32 -y
 sudo apt install winetricks -y 
 sudo apt install mono-complete -y
 sudo winetricks dotnet45
+env WINEARCH=win32 WINEPREFIX=~/.wine32 winetricks dotnet45
 sudo pip install requests
 sudo pip install bs4
 sudo mkdir -p /usr/share/gdracul_dork_finder
