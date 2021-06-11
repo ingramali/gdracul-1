@@ -18,8 +18,7 @@ clear
 dracul_signature
 sudo apt-get update -y
 sudo apt install -y python2
-sudo apt install wine64 -y
-sudo apt install wine32 -y 
+dpkg --add-architecture i386 -y && apt-get update && apt-get install wine32 -y
 sudo apt install winetricks -y 
 sudo apt install mono-complete -y
 sudo winetricks dotnet45
